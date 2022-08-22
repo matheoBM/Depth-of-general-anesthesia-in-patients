@@ -8,3 +8,9 @@ colaboração com o Departamento de Computação e Matemática. Desde
 setembro de 2021 até setembro de 2022.
 
 
+# Autores
+- Matheo Marumo 
+- Waynice Garcia
+- Luiz Eduardo Virgílio
+- Renato Tinós
+- Rubens Fazan Júnior
